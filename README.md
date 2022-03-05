@@ -6,7 +6,9 @@ Collected & scraped structured and unstructured data from multiple sources, iden
 
 ### Data Source:
 
+Listings and Reviews Airbnb data of 11 cities across the world is considered for our analysis.
+
 [Inside Airbnb] (http://insideairbnb.com/get-the-data.html)
 
-Listings and Reviews Airbnb data of 11 cities across the world is considered for our analysis.
+
 
